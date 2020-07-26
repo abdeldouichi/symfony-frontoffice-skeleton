@@ -13,10 +13,10 @@
 !var/logs/.gitkeep
 !/var/sessions
 /var/sessions/*
-!var/sessions/.gitkeep
-!var/SymfonyRequirements.php
+!/var/sessions/.gitkeep
+!/var/SymfonyRequirements.php
 /vendor/
-/web/bundles/
+/web/build/
 ###< symfony/framework-bundle ###
 
 ###> IDE ###
