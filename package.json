@@ -1,0 +1,41 @@
+{
+  "name": "front-skeleton",
+  "version": "1.0.0",
+  "description": "This is skeleton for symfony project ",
+  "main": "./assets/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdeldouichi/symfony-frontoffice-skeleton.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-encore",
+    "smacss",
+    "symfony",
+    "3.4",
+    "4.4",
+    "skeleton",
+    "sample",
+    "example",
+    "empty",
+    "project",
+    "beginner",
+    "project"
+  ],
+  "author": "abdesselam douichi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdeldouichi/symfony-frontoffice-skeleton/issues"
+  },
+  "homepage": "https://github.com/abdeldouichi/symfony-frontoffice-skeleton#readme",
+  "dependencies": {
+    "@symfony/webpack-encore": "^0.30.2",
+    "jquery": "^3.5.1",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "webpack-notifier": "^1.8.0"
+  }
+}

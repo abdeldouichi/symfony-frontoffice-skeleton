@@ -1,0 +1,9 @@
+app_skeleton_frontoffice:
+  resource: "@FrontofficeBundle/Controller/"
+  type: annotation
+  prefix: /
+
+app_skeleton_core:
+  resource: "@CoreBundle/Controller/"
+  type: annotation
+  prefix: /

@@ -1,0 +1,4 @@
+services:
+#    app_skeleton_core.example:
+#        class: App\Skeleton\CoreBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
