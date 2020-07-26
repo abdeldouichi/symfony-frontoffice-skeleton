@@ -22,7 +22,7 @@ The Symfony Frontend Skeleton is configured with the following defaults:
 - Object-Oriented Css based on the [smacss](http://smacss.com/) design method. [`./assets/scss`](https://itnext.io/css-architecture-with-sass-smacss-and-bem-cc618392c148)
 
 
-## 
+## Few commands for project running
 
 - `` composer install ``
 
