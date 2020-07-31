@@ -28,6 +28,6 @@ The Symfony Frontend Skeleton is configured with the following defaults:
 
 - `` npm install ``
 
-- `` encore dev ``
+- `` ./node_modules/.bin/encore dev ``
 
 - `` php bin/console server:run ``
